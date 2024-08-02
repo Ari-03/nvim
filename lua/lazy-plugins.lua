@@ -40,6 +40,7 @@ require('lazy').setup({
     require 'plugins/quarto',
     require 'plugins/comment',
     require 'plugins/molten',
+    require 'plugins/lazygit',
     -- require 'plugins/vimtex',
 
     -- The following two comments only work if you have downloaded the kickstart repo, not just copy pasted the
