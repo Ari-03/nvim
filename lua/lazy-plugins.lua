@@ -37,9 +37,9 @@ require('lazy').setup({
 
     -- Custom Lazy Plugings
 
-    require 'plugins/quarto',
-    require 'plugins/comment',
-    require 'plugins/molten',
+    -- require 'plugins/quarto',
+    -- require 'plugins/comment',
+    -- require 'plugins/molten',
     require 'plugins/lazygit',
     -- require 'plugins/vimtex',
 
